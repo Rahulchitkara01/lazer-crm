@@ -189,7 +189,8 @@ body
 }
 .accordion-body
 {
-  padding-left: 50px !important;
+
+  padding-left: 40px !important;
 }
 .list-item i
 {
@@ -217,4 +218,8 @@ body
 #header
 {
   width: 80% !important;
+}
+.span1
+{
+  margin-right:10px; 
 }
